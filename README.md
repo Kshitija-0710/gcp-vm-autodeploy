@@ -116,8 +116,11 @@ terraform destroy -var="project_id=your-gcp-project-id"
 
 MIT License. Free to use and modify.
 
-🧑‍💻 Author
-Kshitija Randive
+---
+
+## 🧑‍💻 Author
+
+**Kshitija Randive**
+
 DevOps | GCP | AWS | CI/CD | Linux Automation
 
-Built with ♥ for DevOps practice and portfolio enhancement.
