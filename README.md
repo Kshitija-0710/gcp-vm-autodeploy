@@ -2,6 +2,11 @@
 
 This project automates the provisioning of a secure VM instance on Google Cloud using Terraform. It includes startup scripts, SSH access, and an Apache web server with a custom message.
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4.svg)
+![Shell Script](https://img.shields.io/badge/script-Bash-1f425f.svg)
+![GCP](https://img.shields.io/badge/cloud-GCP-F9AB00.svg)
+
 ---
 
 ## 📁 Project Structure
@@ -91,6 +96,11 @@ You should see:
 > Hello from Terraform provisioned GCP VM!
 
 ---
+
+## 📸 Screenshot
+
+![Deployment Screenshot](screenshot.png)
+
 
 ## 🧹 Cleanup
 
