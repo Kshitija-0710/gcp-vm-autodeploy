@@ -99,7 +99,8 @@ You should see:
 
 ## 📸 Screenshot
 
-![Deployment Screenshot](screenshot.png)(screenshot1.png)
+![Deployment Screenshot](screenshot.png)
+![Second Screenshot](screenshot1.png)
 
 
 ## 🧹 Cleanup
